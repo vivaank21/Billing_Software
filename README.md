@@ -666,7 +666,7 @@ in the Software without restriction...
 ## 📞 Support & Contact
 
 For issues, questions, or suggestions:
-- **Email**: [Support Email]
+- **Email**: vishukava16@gmail.com
 - **GitHub Issues**: [Project Issues Page]
 - **Documentation**: See inline code comments
 
