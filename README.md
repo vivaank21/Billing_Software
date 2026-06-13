@@ -532,7 +532,7 @@ Exports all data (categories, products, customers, invoices) to text file
 Located in: `Connection/ConnectiontoDB.cs`
 
 ```csharp
-public static String Connection_str = "Data Source=LAPTOP-6LPJ4I20;Initial Catalog=prj_DB;Integrated Security=True";
+public static String Connection_str = "Data Source=;Initial Catalog=prj_DB;Integrated Security=True";
 ```
 
 Update server name and database name as needed.
